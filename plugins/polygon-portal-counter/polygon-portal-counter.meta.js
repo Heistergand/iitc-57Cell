@@ -1,13 +1,13 @@
 // ==UserScript==
 // @id             iitc-plugin-homogeneous-fields@57Cell
-// @name           IITC Plugin: 57Cell's Field Planner
-// @version        2.1.9.20250810
-// @description    Plugin for planning fields in IITC
-// @author         57Cell (Michael Hartley) and ChatGPT 4.0
+// @name           IITC Plugin: 57Cell's Polygon Portal Counter
+// @version        0.4.0.20240803
+// @description    Plugin for counting portals in polygons
+// @author         57Cell (Michael Hartley) and Claude.AI
 // @category       Layer
 // @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
-// @updateURL      https://github.com/mike40033/iitc-57Cell/raw/master/plugins/homogeneous-fields/homogeneous-fields.meta.js
-// @downloadURL    https://github.com/mike40033/iitc-57Cell/raw/master/plugins/homogeneous-fields/homogeneous-fields.user.js
+// @updateURL      https://github.com/mike40033/iitc-57Cell/raw/master/plugins/polygon-portal-counter/polygon-portal-counter.meta.js
+// @downloadURL    https://github.com/mike40033/iitc-57Cell/raw/master/plugins/polygon-portal-counter/polygon-portal-counter.user.js
 // @include        https://intel.ingress.com/*
 // @include        http://intel.ingress.com/*
 // @match          https://intel.ingress.com/*
